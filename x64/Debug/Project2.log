@@ -1,0 +1,62 @@
+﻿  Source.cpp
+O:\Работы\Курсовые\TETRIS\Block.h(67,49): warning C4244: аргумент: преобразование "const T" в "const _Ty", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Block.h(67,49): warning C4244:         with
+O:\Работы\Курсовые\TETRIS\Block.h(67,49): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Block.h(67,49): warning C4244:             T=float
+O:\Работы\Курсовые\TETRIS\Block.h(67,49): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Block.h(67,49): warning C4244:         and
+O:\Работы\Курсовые\TETRIS\Block.h(67,49): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Block.h(67,49): warning C4244:             _Ty=int
+O:\Работы\Курсовые\TETRIS\Block.h(67,49): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Block.h(72,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Block.h(79,27): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Block.h(101,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Block.h(101,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,66): warning C4244:         with
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,66): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,66): warning C4244:             T=unsigned int
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,66): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,66): warning C4244:         and
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,66): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,66): warning C4244:             T=float
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,66): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,46): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,46): warning C4244:         with
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,46): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,46): warning C4244:             T=int
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,46): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,46): warning C4244:         and
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,46): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,46): warning C4244:             T=float
+O:\Работы\Курсовые\TETRIS\Source.cpp(29,46): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Source.cpp(35,60): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Source.cpp(35,60): warning C4244:         with
+O:\Работы\Курсовые\TETRIS\Source.cpp(35,60): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Source.cpp(35,60): warning C4244:             T=unsigned int
+O:\Работы\Курсовые\TETRIS\Source.cpp(35,60): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Source.cpp(35,60): warning C4244:         and
+O:\Работы\Курсовые\TETRIS\Source.cpp(35,60): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Source.cpp(35,60): warning C4244:             T=float
+O:\Работы\Курсовые\TETRIS\Source.cpp(35,60): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Source.cpp(54,48): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Source.cpp(54,48): warning C4244:         with
+O:\Работы\Курсовые\TETRIS\Source.cpp(54,48): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Source.cpp(54,48): warning C4244:             T=unsigned int
+O:\Работы\Курсовые\TETRIS\Source.cpp(54,48): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Source.cpp(58,48): warning C4244: аргумент: преобразование "const T" в "float", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Source.cpp(58,48): warning C4244:         with
+O:\Работы\Курсовые\TETRIS\Source.cpp(58,48): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Source.cpp(58,48): warning C4244:             T=int
+O:\Работы\Курсовые\TETRIS\Source.cpp(58,48): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Source.cpp(228,73): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Source.cpp(228,73): warning C4244:         with
+O:\Работы\Курсовые\TETRIS\Source.cpp(228,73): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Source.cpp(228,73): warning C4244:             T=unsigned int
+O:\Работы\Курсовые\TETRIS\Source.cpp(228,73): warning C4244:         ]
+O:\Работы\Курсовые\TETRIS\Source.cpp(228,45): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+O:\Работы\Курсовые\TETRIS\Source.cpp(228,45): warning C4244:         with
+O:\Работы\Курсовые\TETRIS\Source.cpp(228,45): warning C4244:         [
+O:\Работы\Курсовые\TETRIS\Source.cpp(228,45): warning C4244:             T=unsigned int
+O:\Работы\Курсовые\TETRIS\Source.cpp(228,45): warning C4244:         ]
+  Project2.vcxproj -> O:\Работы\Курсовые\TETRIS\x64\Debug\Tetris.exe
